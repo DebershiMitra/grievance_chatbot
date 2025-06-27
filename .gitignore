@@ -1,0 +1,8 @@
+# Ignore the .env file to keep secrets safe
+.env
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore the local database file
+grievances.db
